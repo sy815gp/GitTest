@@ -1,4 +1,4 @@
 # GitTest
 Git practice
-modify 2
+new name 2
 modify 3
